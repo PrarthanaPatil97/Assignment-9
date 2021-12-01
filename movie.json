@@ -1,0 +1,87 @@
+[
+    {
+      "id":"1",
+      "characterName":"Roger 'Verbal' Kint",
+      "date": "1995-08-16",
+      "played by": "Kevin Spacey",
+      "film title": "The Usual Suspects",
+      "description": "Verbal's informed scanning of a bulletin board while awaiting interrogation."
+  
+    },
+    {
+        "id":"2",
+        "characterName":"Kevin McCallister ",
+        "date": "1991-10-18",
+        "played by":"Macauley Culkin",
+        "film title": "Home Alone and one later film",
+        "description": "Kevin's slapping of aftershave on his cheeks, and his 'Aaaahhh!' reaction."
+        
+    },
+    {
+        "id":"3",
+        "characterName":"Antoine Doinel",
+        "date": "1959-05-04",
+        "played by":"Jean Pierre Leaud",
+        "film title": "The 400 Blows and four later films",
+        "description": "Antoine's reaction when asked by a reform school psychiatrist if he's ever slept with a girl."
+    },         
+    {
+        "id":"4",
+        "characterName":"Ace Ventura",
+        "date": "1994-02-04",
+        "played by":"Jim Carrey",
+        "film title": "Ace Ventura: Pet Detective and later films",
+        "description": "Ace's calling of his pets in his apartment after lying to his landlord about not having animals in his place."
+    },         
+    {
+        "id":"5",
+        "characterName":"Tommy DeVito",
+        "date": "1990-09-19",
+        "played by":"Joe Pesci",
+        "film title": "GoodFellas",
+        "description": "ommy's 'How Am I Funny' routine, and his deadly showdown with Spider (Michael Imperioli) during a card game."
+    },         
+    {
+        "id":"6",
+        "characterName":"Rose Sayer",
+        "date": "1951-12-26",
+        "played by":"Katharine Hepburn",
+        "film title": "The African Queen",
+        "description": "Heroine Rose's moment of emotional liberation after 'going over the falls'."
+    },         
+    {
+        "id":"7",
+        "characterName":"Harry Lime",
+        "date": "1949-08-31",
+        "played by":"Orson Welles",
+        "film title": "The Third Man",
+        "description": "Harry's 'cuckoo clock' speech."
+    },         
+    {
+        "id":"8",
+        "characterName":"John Malkovich",
+        "date": "1999-10-29",
+        "played by":"John Malkovich",
+        "film title": "Being John Malkovich",
+        "description": "John's yelling of 'It's my heeeead!' while on the shoulder of the NJ Turnpike, after which a taunting trucker hurls a can at him."
+    },         
+    {
+        "id":"9",
+        "characterName":"Sandy Olsson",
+        "date": "1978-06-13",
+        "played by":"Olivia Newton-John",
+        "film title": "Grease",
+        "description": "Wearing black pants, red heels, and a leather jacket, Bad Sandy's bringing of Danny Zuko (John Travolta) to his knees."
+    },         
+    {
+      
+        "id":"10",
+        "characterName":"Melanie Daniels",
+        "date": "1963-03-28",
+        "played by":"Tippi Hedren",
+        "film title": "The Birds",
+        "description": "Melanie's venture into an upstairs bedroom, where she is viciously attacked by birds."
+    }      
+     
+    
+  ]

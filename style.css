@@ -1,0 +1,25 @@
+.hiddenInfo{
+  display: none;
+}
+  
+.highlight{
+    background-color: yellow!important;
+  } 
+  
+
+  #search:focus{
+    outline: none!important;
+    box-shadow: none;        
+  }
+
+  .button4 {
+    background-color: #e7e7e7;
+    color: black;
+  } /* Gray */ 
+  
+.button5 {
+  background-color: #555555; 
+  color: white;} /* Black */
+
+
+  
