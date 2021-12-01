@@ -1,2 +1,6 @@
  npm install -g http-server
  http-server -c-1
+ 
+ Available on:
+http://192.168.2.25:8081/
+ 
